@@ -10,6 +10,6 @@ El proyecto es un sistema de Inventario con la capacidad de mostrar al publico l
 | ------ | ------ | ------ | ------ |
 | ![login](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/admin_login.PNG) | ![dashboard](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/admin_dashboard.png) | ![productos](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/modulo_productos.png) | ![marcas](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/seccion_marcas.png) |
 ### pagina principal
-| Pagina Principal 1 | Pagina Principal 2 | Pagina Principal Responsive 3 |
+| Pagina Principal | Pagina Principal - extendida | Pagina Principal Responsive 3 |
 | ------ | ------ | ------ |
 | ![paginaprincipal1](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/paginaprincipal1.png) | ![paginaprincipal2](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/paginaprincipal2.png) | ![paginaprincipal_mobile](https://github.com/flvportafolio/minimercado-DS2-UPDS/blob/master/capturas/paginaprincipal_samsung_s5.png) |
